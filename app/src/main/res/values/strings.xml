@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Story App</string>
+
+    <string name="add_story">Add Story</string>
+    <string name="logout">Logout</string>
+
+    <string name="detail_image">Story Image</string>
+    <string name="transition_detail_image">Story Image</string>
+    <string name="transition_title_story">Story Title</string>
+    <string name="transition_description">Story Desc</string>
+    <string name="transition_date">Story Date</string>
+
+    <string name="story_title">Story App</string>
+    <string name="story_description">Description</string>
+    <string name="story_date">2024-05-23</string>
+    <string name="detail_story">Story Detail</string>
+
+    <string name="onboarding_title">Welcome to Story App</string>
+    <string name="onboarding_subtitle">An Online Story App</string>
+
+    <string name="data_failed">Failed to Load Data</string>
+    <string name="success_image">Success</string>
+    <string name="empty_image">Please Select an Image First!!!</string>
+
+    <string name="add_story_page">Add Story</string>
+
+    <string name="from_gallery">Gallery</string>
+    <string name="from_camera">Camera</string>
+    <string name="btn_upload">Upload</string>
+
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="register_subtitle">Register Your Account</string>
+    <string name="login_subtitle">Login Story App</string>
+    <string name="username">Username</string>
+    <string name="invalid_username">Username Cannot be Empty</string>
+    <string name="email">Email</string>
+    <string name="empty_email">Please Fill Your Email</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="password">Password</string>
+    <string name="empty_password">Please Fill Your Password</string>
+    <string name="invalid_password">Password Must be 8 Character</string>
+    <string name="auth_failed">Login Failed</string>
+    <string name="auth_success">Login Success</string>
+    <string name="register_failed">Register Failed</string>
+    <string name="register_success">Register Success</string>
+    <string name="error_occurred">Error Occurred</string>
+    <string name="retry">Retry</string>
+    <string name="title_location">Location Tracker</string>
+    <string name="input_location">With Location</string>
+
+</resources>
